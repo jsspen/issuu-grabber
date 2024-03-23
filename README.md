@@ -1,6 +1,19 @@
 # ISSUU Grabber
 Save a PDF copy of any ISSUU document
 
-Input file should be called `input.txt`
-It should be saved in the app root directory
-It should contain one URL on each line
+## Basic usage
+- Clone or download repo
+- Open terminal in root directory
+- Run the program with `python issuu-grabber.py`
+
+### Manual Entry
+Provide a single URL with the option to continue as many times as desired
+- When prompted enter `u` for manual entry
+- Paste the full ISSUU URL into the terminal
+
+### File Entry
+Simple batch processing for a list of URLs
+- When prompted enter `f` for file input
+- Input file should be named `input.txt`
+- File should be saved in the app root directory
+- File should contain one URL on each line
