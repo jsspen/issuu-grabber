@@ -1,5 +1,5 @@
 # ISSUU Grabber
-Save a PDF copy of any ISSUU document
+A quick Python script to save a PDF copy of any ISSUU document
 
 ## Basic usage
 - Clone or download repo
